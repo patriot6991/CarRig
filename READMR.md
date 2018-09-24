@@ -3,6 +3,9 @@ maya用の車の汎用リグです。
 ロケータをアジャストしてスクリプトを実行すると簡易的な車のリグが出来ます。
 
 # 使い方
+一応動画もあります。
+[how to use simple carRig.mp4](https://drive.google.com/open?id=1mGEgJHeNn49320_8z7lRiBCugQM1Ngmh)
+
 1. 車のシーンを開きます。
 2. ワールドZ方向を進行方向として車を配置。
 3. タイヤの接地部分をワールドY=0に配置。
