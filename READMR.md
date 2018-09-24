@@ -16,11 +16,11 @@ maya用の車の汎用リグです。
 11. bodyGPにボディメッシュを入れます。
 12. サスペンションなどの余ったメッシュはall_ctrl直下に入れます。（グループ化しても問題ないです。）
 
-!()[images/importOptions.png]
+![](images/importOptions.png)
 
 ## タイヤの中心が取れないとき
 タイヤの中心に頂点がない場合は、これでなんとかなるのでぜひ使ってみてください。
 
 下記ツールを実行すると選択した頂点の平均座標のロケータを作成します。
 円周上に選択して実行すれば中心が取れます。
-!(centerLocator)[https://github.com/patriot6991/centerLocator]
+![centerLocator](https://github.com/patriot6991/centerLocator)
