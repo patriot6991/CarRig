@@ -23,4 +23,4 @@ maya用の車の汎用リグです。
 
 下記ツールを実行すると選択した頂点の平均座標のロケータを作成します。
 円周上に選択して実行すれば中心が取れます。
-![centerLocator](https://github.com/patriot6991/centerLocator)
+[centerLocator](https://github.com/patriot6991/centerLocator)
