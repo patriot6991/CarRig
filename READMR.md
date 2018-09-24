@@ -2,6 +2,10 @@
 maya用の車の汎用リグです。
 ロケータをアジャストしてスクリプトを実行すると簡易的な車のリグが出来ます。
 
+# 環境
+Maya2017 update5で制作しています。
+type meshを使用しているのでmaya2016以降でないと動作しないと思われます。
+
 # 使い方
 一応動画もあります。
 [how to use simple carRig.mp4](https://drive.google.com/open?id=1mGEgJHeNn49320_8z7lRiBCugQM1Ngmh)
